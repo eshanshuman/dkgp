@@ -1,0 +1,5 @@
+# Copy this file to db.properties (same folder you run the app from) and set your password.
+# db.properties is git-ignored so your password is never committed.
+db.url=jdbc:mysql://localhost:3306/campus_exchange
+db.user=root
+db.password=
